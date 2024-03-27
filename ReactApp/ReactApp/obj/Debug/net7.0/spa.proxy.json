@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44454",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\SPECIAL TEK\\Desktop\\my projects\\GuncelKonular\\ReactApp\\ReactApp\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
