@@ -12,3 +12,5 @@
   
 </div>
 Scrum Master: Ökkeşcan Küçükönder
+Projenin Canlıya Alınması: Suleyman Abbud
+https://guncelkonularpr.azurewebsites.net/
