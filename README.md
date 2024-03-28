@@ -5,10 +5,12 @@
 
   # Ekip Üyeleri #
 - Ahmet Hakan Tulgaç
-- Gamzenur Karali
+- Gamze Nur Karali
 - Suleyman Abbud
 - Elif Feyza Altın
 - Ökkeşcan Küçükönder
   
 </div>
 Scrum Master: Ökkeşcan Küçükönder
+Projenin Canlıya Alınması: Suleyman Abbud
+https://caosapp.azurewebsites.net
