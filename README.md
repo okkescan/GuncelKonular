@@ -5,7 +5,7 @@
 
   # Ekip Üyeleri #
 - Ahmet Hakan Tulgaç
-- Gamzenur Karali
+- Gamze Nur Karali
 - Suleyman Abbud
 - Elif Feyza Altın
 - Ökkeşcan Küçükönder
