@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JktYQeBJ4UX5IDEEW7Es14drywzD9+8EqfQZWIy6tY9GnMVfBXCgJAePSVIIItA6Lt+C8ES/ejhK1hr5R+vEdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SPECIAL TEK\\Desktop\\my projects\\GuncelKonular\\CaosApp\\CaosApp\\CaosApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SPECIAL TEK\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.7\\microsoft.aspnetcore.spaproxy.7.0.7.nupkg.sha512",
+    "C:\\Users\\SPECIAL TEK\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.5\\microsoft.windowsdesktop.app.ref.7.0.5.nupkg.sha512",
+    "C:\\Users\\SPECIAL TEK\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.5\\microsoft.netcore.app.ref.7.0.5.nupkg.sha512",
+    "C:\\Users\\SPECIAL TEK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.5\\microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512",
+    "C:\\Users\\SPECIAL TEK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.5\\microsoft.netcore.app.host.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

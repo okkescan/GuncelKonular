@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44463",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\SPECIAL TEK\\Desktop\\my projects\\GuncelKonular\\CaosApp\\CaosApp\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
