@@ -13,4 +13,4 @@
 </div>
 Scrum Master: Ökkeşcan Küçükönder
 Projenin Canlıya Alınması: Suleyman Abbud
-https://caosapp.azurewebsites.net
+https://chaosanalysis.onrender.com/
