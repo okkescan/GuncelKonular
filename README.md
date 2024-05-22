@@ -12,5 +12,5 @@
   
 </div>
 Scrum Master: Ökkeşcan Küçükönder
-Projenin Canlıya Alınması: Suleyman Abbud
-https://chaosanalysis.onrender.com/
+Projenin Canlıya Alınması: Ahmet Hakan Tulgaç
+https://chaos-analysis-ui.onrender.com/
