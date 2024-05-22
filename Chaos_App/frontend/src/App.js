@@ -40,10 +40,18 @@ function App() {
   return (
     <div className="container">
       <div className="video-background">
+        
         <video autoPlay loop muted className="video-bg">
           <source src={backgroundVideo} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
+      
+      </div>
+      
+
+      <div className="text-area text1">
+        <h2>ChaosMezuns</h2>
+        <h3>Kaotik Haritaların Görselleştirilmesi</h3>
       </div>
 
       <div className="text-area">
@@ -54,18 +62,18 @@ function App() {
 
       <div className="cards-container">
       <div className="card-row">
-          <div className="card" onClick={() => handleOpen('logistic')}>
+          <div className="card card1"  onClick={() => handleOpen('logistic')}>
             Logistic
           </div>
-          <div className="card" onClick={() => handleOpen('lorenz')}>
+          <div className="card card2" onClick={() => handleOpen('lorenz')}>
             Lorenz
           </div>
         </div>
         <div className="card-row">
-          <div className="card" onClick={() => handleOpen('ikeda')}>
+          <div className="card card3" onClick={() => handleOpen('ikeda')}>
             Ikeda
           </div>
-          <div className="card" onClick={() => handleOpen('vanDerPol')}>
+          <div className="card card4" onClick={() => handleOpen('vanDerPol')}>
             Van der Pol
           </div>
         </div>

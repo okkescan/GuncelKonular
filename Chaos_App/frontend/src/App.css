@@ -50,6 +50,22 @@
   margin-right: 20px;
 }
 
+.text-area.text1 {
+  position: absolute; /* Eklendi */
+  top: 20px; /* Eklendi */
+  left: 50%; /* Eklendi */
+  transform: translateX(-50%); /* Eklendi */
+  width: 50%; /* Genişlik ayarlandı */
+  text-align: center; /* Metin ortalandı */
+  background-color: rgba(0, 0, 0, 0.7); /* Arka plan rengi ayarlandı */
+
+  font-size: 1rem;
+}
+.text-area.text1 h2 {
+
+
+  font-size: 2rem;
+}
 .cards-container {
   display: flex;
   flex-direction: column;
@@ -81,6 +97,91 @@
   color: bisque;
   padding-bottom: 10px;
   border: 2px solid rgb(225, 219, 219); 
+}
+
+.card.card1 {
+  width: 200px; 
+  height: 180px;
+  border-radius: 20px; 
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: transform 0.5s;
+  background-image: url('images/lojistik.webp')!important;
+  background-position: 50%;
+  background-size: cover;
+  margin: 20px;
+  color: rgb(2, 1, 0);
+  padding-bottom: 10px;
+  border: 2px solid rgb(225, 219, 219); 
+  font-weight: 900;
+  text-shadow: 2px 2px 2px #fff;
+
+}
+.card.card2 {
+  width: 200px; 
+  height: 180px;
+  border-radius: 20px; 
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: transform 0.5s;
+  background-image: url('images/lorenz.png')!important;
+  background-position: 50%;
+  background-size: cover;
+  margin: 20px;
+  color: bisque;
+  padding-bottom: 10px;
+  border: 2px solid rgb(225, 219, 219); 
+  font-weight: 900;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+
+}
+
+.card.card3 {
+  width: 200px; 
+  height: 180px;
+  border-radius: 20px; 
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: transform 0.5s;
+  background-image: url('images/ikeda.jpg')!important;
+  background-position: 50%;
+  background-size: cover;
+  margin: 20px;
+  color: bisque;
+  padding-bottom: 10px;
+  border: 2px solid rgb(225, 219, 219); 
+  font-weight: 900;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+.card.card4 {
+  width: 200px; 
+  height: 180px;
+  border-radius: 20px; 
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: transform 0.5s;
+  background-image: url('images/vander.webp')!important;
+  background-position: 50%;
+  background-size: cover;
+  margin: 20px;
+  color: rgb(0, 0, 0);
+  padding-bottom: 10px;
+  border: 2px solid rgb(225, 219, 219); 
+  font-weight: 900;
+  text-shadow: 2px 2px 2px #fff;
 }
 
 .card:hover {
